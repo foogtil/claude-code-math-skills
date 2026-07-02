@@ -141,9 +141,9 @@ Create `math-context.md` in your paper project root (math-rigor requires it):
 
 ---
 
-## License
+## License   
 
-MIT — see [LICENSE](./LICENSE).
+MIT © foogtil
 
 ## Contributing
 
