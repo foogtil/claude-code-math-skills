@@ -148,3 +148,7 @@ MIT — see [LICENSE](./LICENSE).
 ## Contributing
 
 Issues and PRs welcome.
+
+## Contact information
+
+Please contact me via the email address below if you have any questions: lhy_ynmzdx@qq.com
