@@ -153,3 +153,5 @@ MIT © foogtil
 ## Contact information
 
 Please contact me via the email address below if you have any questions: lhy_ynmzdx@qq.com
+
+*Disclaimer: This tool is for learning and communication purposes only. Users shall bear all risks and responsibilities arising from the use of this tool.*
